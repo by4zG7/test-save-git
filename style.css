@@ -1,0 +1,164 @@
+.lock-screen {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .lock-screen .div {
+    border: 1px solid;
+    border-color: #000000;
+    background-image: url(wall.png);
+    background-size: cover;
+    background-position: 50% 50%;
+    width: 370px;
+    height: 780px;
+    position: relative;
+  }
+  
+  .lock-screen .text-wrapper {
+    position: absolute;
+    width: 218px;
+    height: 26px;
+    top: 10px;
+    left: 25px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .lock-screen .element {
+    position: absolute;
+    width: 220px;
+    height: 268px;
+    top: 255px;
+    left: 75px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: transparent;
+    font-size: 111px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .lock-screen .span {
+    color: #ff0808;
+  }
+  
+  .lock-screen .text-wrapper-2 {
+    color: #ffffff;
+  }
+  
+  .lock-screen .p {
+    position: absolute;
+    width: 319px;
+    height: 23px;
+    top: 72px;
+    left: 26px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 19px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .lock-screen .overlap {
+    position: absolute;
+    width: 142px;
+    height: 40px;
+    top: 696px;
+    left: 114px;
+    border-radius: 25px;
+  }
+  
+  .lock-screen .rectangle {
+    position: absolute;
+    width: 142px;
+    height: 40px;
+    top: 0;
+    left: 0;
+    background-color: #d9d9d9;
+    border-radius: 25px;
+    opacity: 0.6;
+  }
+  
+  .lock-screen .text-wrapper-3 {
+    position: absolute;
+    width: 117px;
+    height: 24px;
+    top: 7px;
+    left: 13px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 13px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .lock-screen .rectangle-2 {
+    position: absolute;
+    width: 134px;
+    height: 6px;
+    top: 764px;
+    left: 118px;
+    background-color: #ffffff;
+    border-radius: 12px;
+  }
+  
+  .lock-screen .ellipse {
+    left: 288px;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 691px;
+    background-color: #ffffff;
+    border-radius: 25px;
+  }
+  
+  .lock-screen .ellipse-2 {
+    left: 32px;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 691px;
+    background-color: #ffffff;
+    border-radius: 25px;
+  }
+  
+  .lock-screen .overlap-group {
+    position: absolute;
+    width: 71px;
+    height: 26px;
+    top: 11px;
+    left: 274px;
+    background-color: #0bda51;
+    border-radius: 12px;
+  }
+  
+  .lock-screen .pngwing {
+    left: 12px;
+    position: absolute;
+    width: 20px;
+    height: 15px;
+    top: 5px;
+    object-fit: cover;
+  }
+  
+  .lock-screen .img {
+    left: 39px;
+    position: absolute;
+    width: 20px;
+    height: 15px;
+    top: 5px;
+    object-fit: cover;
+  }
+  
